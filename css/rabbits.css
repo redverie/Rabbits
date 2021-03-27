@@ -9,10 +9,12 @@ header{
 
 h1{
 	font-size: 40px;
-	font-color: blue;
+	color: blue;
 }
 
 header img{
 	border-radius: 50px;
 	width: 500px;
+	border: 20px;
+	border-color: blue;
 }
