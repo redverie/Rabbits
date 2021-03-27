@@ -5,11 +5,13 @@ body{
 header{
 	text-align: center;
 	background-color: lightgreen;
-	color: blue;
-	font-size: 40px;
 }
 
 header h1{
-	color: blue;
 	font-size: 40px;
+	font-color: blue;
+}
+
+header img{
+	border-radius: 50px;
 }
