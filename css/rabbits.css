@@ -40,8 +40,7 @@ main img {
 	max-width: 100%;
 }
 
-ol, ul, p{
-	text-align: center;
+ol, ul{
 	font-size: 20px;
 	color: green;
 }
@@ -60,6 +59,11 @@ footer a{
 footer a:hover{
 	opacity: .5;
 	background-color: transparent;
+}
+
+p{
+	color: black
+	font-size:20px;
 }
 p.caption{
 	color: #9999;
