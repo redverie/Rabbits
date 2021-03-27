@@ -7,11 +7,12 @@ header{
 	background-color: lightgreen;
 }
 
-header h1{
+h1{
 	font-size: 40px;
 	font-color: blue;
 }
 
 header img{
 	border-radius: 50px;
+	width: 500px;
 }
