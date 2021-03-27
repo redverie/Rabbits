@@ -1,7 +1,11 @@
 body{
-	background-color: lightgreen
+	margin: 0px;
 }
 
-header{
-	
+header h1{
+	text-align: center;
+	background-color: lightgreen
+	color: blue;
+	font-size: 40px;
+
 }
