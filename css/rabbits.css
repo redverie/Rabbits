@@ -16,6 +16,7 @@ h1, h2{
 }
 
 header h1{
+	color: navy;
 	padding-left: 50px;
 	font-size: 40px;
 	font-family: Helvetica, Ariel, sans-serif;
@@ -30,7 +31,7 @@ h2{
 header img{
 	border-radius: 150px;
 	width: 500px;
-	border: 20px solid black;
+	border: 20px solid navy;
 }
 
 main{
