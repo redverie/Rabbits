@@ -3,8 +3,9 @@ body{
 	font-family: Helvetica, Ariel, sans-serif;
 }
 
+/* header styles */
 header{
-	text-align: center;
+	padding-left: 50px;
 	background-color: lightpink;
 	padding-top: 50px;
 	padding-bottom: 50px; 
@@ -15,29 +16,31 @@ h1, h2{
 }
 
 header h1{
-	text-align: center;
+	padding-left: 50px;
 	font-size: 40px;
 	font-family: Helvetica, Ariel, sans-serif;
 }
 
 h2{
+	padding: 5px;
 	font-size: 30px;
-	text-align: center;
 	color: #004D40;
 }
 
 header img{
-	border-radius: 50px;
+	border-radius: 150px;
 	width: 500px;
 	border: 20px solid black;
 }
 
 main{
 	max-width: 800px;
+	padding-left: 50px;
 }
 
 main img {
-	max-width: 100%;
+	max-width: 300px;
+	padding-left: 50px;
 }
 
 ol, ul{
@@ -54,6 +57,7 @@ a:hover{
 }
 
 footer a{
+	padding: 100px;
 	color: #004D40;
 }
 footer a:hover{
@@ -66,7 +70,7 @@ p{
 	font-size:20px;
 }
 p.caption{
-	color: #9999;
+	color: black;
 	font-style: italic;
 }
 
