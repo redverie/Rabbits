@@ -3,10 +3,14 @@ body{
 	font-family: Helvetica, Ariel, sans-serif;
 }
 
+{{#if page.title '!==' 'Home'}}
+        <h1 class="page-heading">{{ page.title }}</h1>
+ {{/if}}
+
 /* header styles */
 header{
 	padding-left: 50px;
-	background-color: green;
+	background-color: darkgreen;
 	padding-top: 50px;
 	padding-bottom: 50px; 
 }
