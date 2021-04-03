@@ -35,26 +35,11 @@ header img{
 }
 
 main{
-	max-width: 800px;
-	padding-left: 50px;
 }
 
-main img {
-	max-width: 300px;
-	padding-left: 50px;
-}
-
-ol, ul{
-	font-size: 20px;
-	color: green;
-}
-
-a{
-	color: green;  
-}
-a:hover{
-	color: white;
-	background-color: green;
+h1{
+	font-family: 'Roboto', sans-serif;
+	color: fuchsia;
 }
 
 footer a{
