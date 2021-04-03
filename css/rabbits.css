@@ -25,7 +25,7 @@ header h1{
 h2{
 	padding: 5px;
 	font-size: 30px;
-	color: #004D40;
+	color: darkgreen;
 }
 
 header img{
@@ -57,12 +57,15 @@ a:hover{
 	background-color: green;
 }
 
-footer a{
-	padding: 100px;
-	color: #004D40;
+footer{
+	padding: 50px;
+	color: white;
+	font-weight: bold;
+	font-size: 20x;
+	background: darkgreen;
 }
-footer a:hover{
-	opacity: .5;
+footer-hover{
+	opacity: 0.5;
 	background-color: transparent;
 }
 
@@ -74,5 +77,4 @@ p.caption{
 	color: black;
 	font-style: italic;
 }
-
 }

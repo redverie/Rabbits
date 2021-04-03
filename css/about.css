@@ -6,7 +6,7 @@ body{
 /* header styles */
 header{
 	padding-left: 50px;
-	background-color: lightpink;
+	background-color: green;
 	padding-top: 50px;
 	padding-bottom: 50px; 
 }
@@ -16,7 +16,7 @@ h1, h2{
 }
 
 header h1{
-	color: navy;
+	color: white;
 	padding-left: 50px;
 	font-size: 40px;
 	font-family: Helvetica, Ariel, sans-serif;
@@ -42,11 +42,11 @@ h1{
 	color: fuchsia;
 }
 
-footer a{
+footer{
 	padding: 100px;
-	color: #004D40;
+	color: green;
 }
-footer a:hover{
+footer-hover{
 	opacity: .5;
 	background-color: green;
 }
