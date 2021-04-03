@@ -48,7 +48,7 @@ footer a{
 }
 footer a:hover{
 	opacity: .5;
-	background-color: transparent;
+	background-color: green;
 }
 
 p{
