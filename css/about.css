@@ -3,13 +3,6 @@ body{
 	font-family: Helvetica, Ariel, sans-serif;
 }
 
-{{#if page.title '!==' 'Home'}}
-        <h1 class="page-heading">{{ page.title }}</h1>
-header{
-	background-color: darkgreen;
-}
-}}        
-
 
 /* header styles */
 header{
@@ -67,5 +60,4 @@ p.caption{
 	color: black;
 	font-style: italic;
 }
-
 }
